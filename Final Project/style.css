@@ -1,0 +1,240 @@
+
+
+
+
+body {
+  background-color: black;
+  margin: 0px;
+  padding: 0px;
+}
+
+
+p{
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  color: rgba(0, 0, 0, 0.292);
+  }
+
+  
+
+ul {
+  list-style-type: none;
+  background-color: blueviolet;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: aqua;
+  padding: 15px 15px;
+  text-decoration: none;
+}
+
+li a:hover{
+   background-color: aliceblue;
+}
+
+
+
+.p {
+  text-align: center;
+  position: static;
+  font-family: sans-serif;
+  text-decoration: dotted;
+  text-indent: 50px;
+  letter-spacing: 5px;
+  color: orange;
+  font-size: 25px;
+}
+
+.p1 {
+  text-align: center;
+  position: static;
+  font-family: sans-serif;
+  text-decoration: dotted;
+  text-indent: 50px;
+  letter-spacing: 5px;
+  color: green;
+  font-size: 20px;
+
+
+}
+
+.p3{
+  text-align: center;
+  position: static;
+  font-family: sans-serif;
+  text-decoration: dotted;
+  text-indent: 50px;
+  letter-spacing: 5px;
+  color: purple;
+  font-size: 20px;
+
+}
+
+
+.p2{
+  text-align: center;
+  position: static;
+  font-family: sans-serif;
+  text-decoration: dotted;
+  text-indent: 50px;
+  letter-spacing: 5px;
+  color: blue;
+  font-size: 20px;
+
+
+}
+.p15{
+  text-align: center;
+  position: static;
+  font-family: sans-serif;
+  text-decoration: dotted;
+  text-indent: 50px;
+  letter-spacing: 5px;
+  color: blue;
+  font-size: 20px;
+
+}
+
+.p11{
+  text-align: center;
+  position: static;
+  font-family: sans-serif;
+  text-decoration: dotted;
+  text-indent: 50px;
+  letter-spacing: 5px;
+  color: blue;
+  font-size: 20px;
+
+}
+
+.p23{
+  text-align: center;
+  position: static;
+  font-family: sans-serif;
+  text-decoration: dotted;
+  text-indent: 50px;
+  letter-spacing: 5px;
+  color: blue;
+  font-size: 20px;
+
+}
+
+.p22{
+  text-align: center;
+  position: static;
+  font-family: sans-serif;
+  text-decoration: dotted;
+  text-indent: 50px;
+  letter-spacing: 5px;
+  color: blue;
+  font-size: 20px;
+}
+
+.h{
+
+  text-align: center;
+  position: static;
+  font-family: sans-serif;
+  text-indent: 50px;
+  color: red;
+  font-size: 20px;
+}
+
+table {
+  width: 1000px;
+  height: 500px;
+  color: green;
+  position: relative;
+}
+
+td {
+  text-align: right;
+  width: 5000px;
+  height: 300px;
+}
+
+.hero-section{
+  width: 90%;
+  margin-top: 50px;
+  border: 10px solid green;
+  background-color: orange;
+  margin: 10px;
+  padding: 20px;
+  font-size: 40px;
+}
+
+
+.p11{
+  background-color: yellowgreen;
+}
+
+.seven {
+    
+  border: 10px solid red;
+  
+  }
+
+.seven > div {
+  background-color: yellow;
+  margin: 10px;
+  padding: 20px;
+  font-size: 40px}
+
+  .center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .hero{
+    
+    width: 95%;
+    margin-top: 50px;
+    border: 10px solid green;
+    background-color: yellow;
+    margin: 10px;
+    padding: 20px;
+    font-size: 40px;}
+
+    .hero2{
+      
+    width: 95%;
+    margin-top: 50px;
+    border: 10px solid green;
+    background-color: yellow;
+    margin: 10px;
+    padding: 20px;
+    font-size: 40px;}
+    }
+
+    .about1{
+      
+    width: 60%;
+    margin-top: 50px;
+    border: 10px solid green;
+    background-color: yellow;
+    margin: 10px;
+    padding: 20px;
+    font-size: 40px;}
+    
+
+  .hero4{
+    
+    width: 95%;
+    margin-top: 50px;
+    border: 10px solid green;
+    background-color: yellow;
+    margin: 10px;
+    padding: 20px;
+    font-size: 40px;}
+  }
